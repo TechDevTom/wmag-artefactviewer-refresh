@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Artefact Viewer</title>
+    <title>Unity WebGL Player | Artefact Viewer</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -22,7 +22,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Best viewed in Full Screen</div>
+        <div id="unity-build-title">Artefact Viewer</div>
       </div>
     </div>
     <script>
@@ -45,19 +45,16 @@
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var mobileWarning = document.querySelector("#unity-mobile-warning");
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) 
-      {
-          container.className = "unity-mobile";
-          config.devicePixelRatio = 1;
-          mobileWarning.style.display = "block";
-          setTimeout(() => {
-            mobileWarning.style.display = "none";
-          }, 5000);
-      } 
-      else 
-      {
-          // canvas.style.width = "50%"; //1280px
-          // canvas.style.height = "50%"; //720px
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        config.devicePixelRatio = 1;
+        mobileWarning.style.display = "block";
+        setTimeout(() => {
+          mobileWarning.style.display = "none";
+        }, 5000);
+      } else {
+        canvas.style.width = "1280px";
+        canvas.style.height = "720px";
       }
       loadingBar.style.display = "block";
 
