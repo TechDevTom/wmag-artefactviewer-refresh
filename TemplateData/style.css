@@ -21,7 +21,7 @@ body { padding: 0; margin: 0 }
 /* #unityContainer {width: 100vw;  height: 56.25vw;}
 
 /* maintain 1280x720 aspect ratio */
-#unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
+#unity-container.unity-desktop { width: 100%; height: 56.25% } /*{ left: 50%; top: 50%; transform: translate(-50%, -50%) }*/
 #unity-container.unity-mobile { width: 100%; height: 56.25% }
 
 
