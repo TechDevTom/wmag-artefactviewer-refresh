@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 2354736137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30b48ec8323ee5e4f1bd5c952cfbd85b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2d3e9e7f7a9313a2638ad3fc0b96c26
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e6741049640bf64bb62a8044a937190, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29dea9fcd55b3d0489e85a7c292ac309, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4baf475efd8f00e42a77cbd0d36a226c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/ethnology collection.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Collection.json
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/decoration
+  on side ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/wagmg_1980_14.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/decorated
+  base ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_234/wagmg_1887_41_234.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_330/wagmg_1900_330.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/wagmg_1887_41_246.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/redware
+  vessel.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_234/head
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/feejee
+  mermaid.asset
+- Assets/ArtefactData/Ethnology Collection/bgimage.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/design
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1909_29/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1909_29/harness
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/whistle
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/torso
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/arms
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_330/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/collar
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_234/hieroglyphics
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/wig
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/wagmg_1900_334.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_333/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_330/falcon
+  head ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/human
+  head ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/bronze
+  material ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/wagmg_1898_401.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1909_29/wagmg_1909_29.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_333/baboon
+  head ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_333/wagmg_1900_333.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/jackal
+  head ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/arms
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/benin
+  bronze.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_234/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_234/crossed
+  arms ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/headdress
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/wagmg_1900_332.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/face
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/tail
+  ip.asset
+Dependencies:
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactbeninbronze.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactfeejeemermaid.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactredwarevessel.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1887_41_234.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1887_41_246.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1898_401.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1900_330.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1900_332.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1900_333.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1900_334.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1909_29.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactwagmg_1980_14.unity3d

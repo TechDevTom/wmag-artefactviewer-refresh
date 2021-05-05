@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3240934054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95056c293caf44b98b98c7151323d9ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Archaeology Collection/Archaeology Artefacts/Sandstone Column/material.mat
+- Assets/ArtefactData/Archaeology Collection/Archaeology Artefacts/Sandstone Column/model.fbx
+- Assets/ArtefactData/Archaeology Collection/Archaeology Artefacts/Sandstone Column/base
+  feature.png
+- Assets/ArtefactData/Archaeology Collection/Archaeology Artefacts/Sandstone Column/side
+  feature.png
+- Assets/ArtefactData/Archaeology Collection/Archaeology Artefacts/Sandstone Column/texture.png
+Dependencies: []

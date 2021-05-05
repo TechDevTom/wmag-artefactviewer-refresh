@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2090271370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 699a478cf0712bf5c1740813741b1020
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/human
+  head feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/model.fbx
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_334/material.mat
+Dependencies: []

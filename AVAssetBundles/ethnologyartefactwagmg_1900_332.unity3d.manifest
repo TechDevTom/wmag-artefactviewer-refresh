@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 597592736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3b8292f79544757b45106b6a7dcf43d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/material.mat
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/jackal
+  head feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1900_332/model.fbx
+Dependencies: []

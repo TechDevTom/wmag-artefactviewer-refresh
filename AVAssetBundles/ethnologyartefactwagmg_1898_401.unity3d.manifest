@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1134426538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8436e065064240658768c75ef72bde27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/arms
+  feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/material.mat
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/face
+  feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1898_401/model.fbx
+Dependencies: []

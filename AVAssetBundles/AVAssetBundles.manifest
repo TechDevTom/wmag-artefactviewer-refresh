@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 4106988825
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: archaeologyartefactearthenwaresphinx.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: socialhistoryartefactdeathmask.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: archaeology-collection.unity3d
+      Dependencies:
+        Dependency_0: archaeologyartefactearthenwaresphinx.unity3d
+        Dependency_1: archaeologyartefactrhytoncup.unity3d
+        Dependency_2: archaeologyartefactsandstonecolumn.unity3d
+        Dependency_3: archaeologyartefactwagmg_1851_94_9.unity3d
+    Info_3:
+      Name: social-history-collection.unity3d
+      Dependencies:
+        Dependency_0: socialhistoryartefactdeathmask.unity3d
+    Info_4:
+      Name: archaeologyartefactrhytoncup.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: ethnologyartefactbeninbronze.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: archaeologyartefactsandstonecolumn.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: ethnologyartefactfeejeemermaid.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: ethnology-collection.unity3d
+      Dependencies:
+        Dependency_0: ethnologyartefactbeninbronze.unity3d
+        Dependency_1: ethnologyartefactfeejeemermaid.unity3d
+        Dependency_2: ethnologyartefactredwarevessel.unity3d
+        Dependency_3: ethnologyartefactwagmg_1887_41_234.unity3d
+        Dependency_4: ethnologyartefactwagmg_1887_41_246.unity3d
+        Dependency_5: ethnologyartefactwagmg_1898_401.unity3d
+        Dependency_6: ethnologyartefactwagmg_1900_330.unity3d
+        Dependency_7: ethnologyartefactwagmg_1900_332.unity3d
+        Dependency_8: ethnologyartefactwagmg_1900_333.unity3d
+        Dependency_9: ethnologyartefactwagmg_1900_334.unity3d
+        Dependency_10: ethnologyartefactwagmg_1909_29.unity3d
+        Dependency_11: ethnologyartefactwagmg_1980_14.unity3d
+    Info_9:
+      Name: ethnologyartefactredwarevessel.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: archaeologyartefactwagmg_1851_94_9.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: ethnologyartefactwagmg_1887_41_234.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: ethnologyartefactwagmg_1887_41_246.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: ethnologyartefactwagmg_1898_401.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: ethnologyartefactwagmg_1900_330.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: ethnologyartefactwagmg_1900_332.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: ethnologyartefactwagmg_1900_333.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: ethnologyartefactwagmg_1900_334.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: ethnologyartefactwagmg_1909_29.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: ethnologyartefactwagmg_1980_14.unity3d
+      Dependencies: {}

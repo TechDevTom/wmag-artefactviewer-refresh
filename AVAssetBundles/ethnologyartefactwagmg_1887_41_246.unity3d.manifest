@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1823600574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5566d5d9636d2c9c3646dcd184e00f59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/wig
+  feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/arms
+  feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/material.mat
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/model.fbx
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1887_41_246/collar
+  feature.png
+Dependencies: []

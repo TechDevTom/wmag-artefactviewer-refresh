@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2702062063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de473a4d4f8867876e502dc2fda2195c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254968cdffba1da75c4198491afe0a33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/model.fbx
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/material.mat
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/decoration
+  on side feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/WAGMG_1980_14/decorated
+  base feature.png
+Dependencies: []
